@@ -1,8 +1,7 @@
 # Rabcab-Installer
-[![GitHub Release](https://img.shields.io/github/release/zjayers/rabcab-installer.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/rabcab-installer.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/rabcab-installer.svg?style=flat)](https://github.com/zjayers/rabcab-installer/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/rabcab-installer.svg?style=flat)](https://github.com/zjayers/rabcab-installer/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/rabcab-installer.svg?maxAge=25000)](https://github.com/zjayers/rabcab-installer/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/rabcab-installer/blob/master/LICENSEs)
 
 ## Description
 
